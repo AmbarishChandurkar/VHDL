@@ -1,0 +1,5 @@
+This code contains the solution of the Lab Exam conducted on 12 April 2019.
+The Question was to implement a "3 - Input Major Gate".
+In this gate, output is that bit which is in the majority numbers,
+in the 3 - Bit Input.
+Code has been written in "Behavioral Representation"

@@ -1,0 +1,5 @@
+A Four Bit Adder has been implemented using "Structural Representation".
+The entity "FA" has been used to implement this code.
+'FA' is a "Full adder" which has been also implementted using structural representation.
+It uses 2 another entities "Beh_half_adder" and "Conc_half_adder" which are the behavioral and the concurrent 
+implementations respectively of the "Half Adder"

@@ -1,0 +1,3 @@
+In this VHDL Code, a 4 - Bit "Shift Register" has been implemented in "Structural Representation".
+The component used for this code is the "D - Flip Flop(DFF.vhd)".
+It has been implemented in "Behavioral Representation"

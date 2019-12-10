@@ -1,0 +1,2 @@
+A 4 - Bit Parity Checker has been implemented using "Structural Representation".
+Each of the "Gate Entity" like AND, OR, and NOT have been implemented using Behavioral Implementation

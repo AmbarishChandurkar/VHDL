@@ -1,0 +1,3 @@
+In this VHDL Code, i have implemented the "4 - Bit Adder" using simple "Generate" Statement.
+"4 - Bit Counter" has been implemented using "If - Generate" Construct.
+The Component DFF which has been defined in the folder "Shift Register", has been used for this purpose.
