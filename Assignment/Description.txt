@@ -1,0 +1,1 @@
+This folder contains the various VHDL codes which are the solutions to the questions of the Assignments
